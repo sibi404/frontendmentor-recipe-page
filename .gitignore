@@ -15,4 +15,4 @@
 .DS_Store
 .prettierignore
 
-temp.txt
+./temp.txt
